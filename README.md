@@ -15,6 +15,8 @@ This is a little 3D printed mount for an IR filter that you then install over th
 
 I ordered one of [these](https://www.amazon.com/gp/product/B07N2Z9NHL).
 
+It is a 10 mm by 1 mm cylindrical IR filter.  These are commonly used for cameras.
+
 Also order some VHB tape if you don't have any.  It's ridiculously useful stuff.
 
 ## Printed  mount
